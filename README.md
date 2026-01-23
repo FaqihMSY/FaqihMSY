@@ -1,4 +1,5 @@
 # Hi, I'm Faqih
+[![Initializing Faqih System...](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 
 I'm currently transitioning from competitive programming (C++) to backend engineering with **Go**, while studying Informatics at **Institut Teknologi Bandung**.  
 
