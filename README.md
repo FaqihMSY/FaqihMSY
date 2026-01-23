@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F7F7F7&width=435&lines=Initializing+Faqih+System...;Hi+I+am+Faqih!+%5E-%5E)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3000&pause=1000&color=F7F7F7&width=435&lines=Initializing+Faqih+System...;Hi+I+am+Faqih!+%5E-%5E)](https://git.io/typing-svg)
 
 I'm currently transitioning from competitive programming (C++) to backend engineering with **Go**, while studying Informatics at **Institut Teknologi Bandung**.  
 
