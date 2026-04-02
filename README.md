@@ -2,7 +2,7 @@
 
 I'm currently transitioning from competitive programming (C++) to backend engineering with **Go**, while studying Informatics at **Institut Teknologi Bandung**.  
 
-Lately, I've been deep-diving into microservices architecture, and trying to solve at least one algorithm problem every day (or at least, that's the goal!).
+Lately, I've been deep-diving into architecture, and trying to solve at least one algorithm problem every day (or at least, that's the goal!).
 
 <p>
   <img src="https://img.shields.io/badge/Go-00ADD8?style=plastic&logo=go&logoColor=white" />
